@@ -1,5 +1,5 @@
 import json
-from game_engine import GraphColoringGame
+from main import GraphColoringGame
 from student_template import CSP_AGENT 
 
 class GameRunner:
